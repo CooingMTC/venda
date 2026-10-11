@@ -36,7 +36,7 @@ Microsserviço responsável por processar as compras de ingressos para transmiss
    ./mvnw clean compile
    ./mvnw spring-boot:run
    ```
-3. A aplicação subirá na porta **`8082`**.
+3. A aplicação subirá na porta **`8081`**.
 
 ---
 
